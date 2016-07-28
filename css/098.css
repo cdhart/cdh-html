@@ -1,0 +1,25 @@
+/* Yo, Yo, Yo */
+body {
+  background-color: yellow;
+}
+main {
+  margin: 2%;
+  width: 65%;
+  height: 474px;
+  background-color: red;
+  float: left;
+}
+#div1 {
+  background-color: red;
+  border-right: 2px solid black;
+}
+aside {
+  margin: 2%;
+  width: 25%;
+  background-color: blue;
+  height: 474px;
+  float: left;
+}
+h1 {
+  font-style: oblique;
+}
