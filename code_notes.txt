@@ -1,0 +1,44 @@
+<!-- link CSS file -->
+  <link rel="stylesheet" type="text/css" href="FILE/PATH.css">
+
+<!-- BOOTSTRAP -->
+  <!-- CSS -->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <!-- JavaScript -->
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+<!-- HTML/CSS arguments-->
+
+  <!-- open link (in a new tab) -->
+    <a href="http://#.com" target="_blank">TEXT</a>
+  ​
+  <!-- anchor tag to send email -->
+    <a href="mailto:EMAIL_ADDRESS">TEXT</a>
+
+IMAGE​
+  <!-- insert image using a URL -->
+    <img src="https://URL" alt="ALTERNATE_TEXT" title="picture note" height=XX width=XX/>
+  <!-- insert image using a file path -->
+    <img src="./PATH/TO/FILE.fileextension" alt="ALTERNATE_TEXT" title="picture note" style="height:XX;width=XX"/>
+
+UNORDERED LIST  ​
+  <!-- unordered list -->
+    <ul>
+      <li>Order</li>
+      <li>Doesn't</li>
+      <li>Matter</li>
+    </ul>
+    ​
+  <!-- ordered list -->
+    <ol>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ol>
+
+  <!-- HTML color -->
+    rgb - "rgb(255,255,0)";
+    rgb w/opacity - "rgb(255, 255, 0, .5)";
+    hexidecimal - "#fefefe"
