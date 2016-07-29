@@ -1,5 +1,10 @@
 <!-- yo, yo, yo -->
 
+<!-- favicon -->
+    <link rel="icon" 
+      type="image/png"
+      href="images/favicon-32x32.png">
+
 <!-- link CSS file -->
   <link rel="stylesheet" type="text/css" href="FILE/PATH.css">
 
