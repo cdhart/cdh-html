@@ -1,5 +1,5 @@
 <!-- yo, yo, yo -->
-<!-- this is a thing -->
+<!-- this is a thing/not any more -->
 
 <!-- favicon -->
     <link rel="icon" 
